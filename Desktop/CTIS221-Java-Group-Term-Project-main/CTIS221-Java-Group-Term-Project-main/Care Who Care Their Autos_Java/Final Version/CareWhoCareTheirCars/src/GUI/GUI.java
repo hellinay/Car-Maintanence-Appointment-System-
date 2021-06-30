@@ -5,6 +5,16 @@
  */
 package GUI;
 
+import Classes.Ambulance;
+import Classes.Car;
+import Classes.CareHistory;
+import Classes.VehicleSys;
+import Classes.Truck;
+import Classes.Motorcycle;
+import Classes.StandartVehicle;
+import Classes.Vehicle;
+import Classes.PrivilegedVehicle;
+import Classes.FireTruck;
 import java.awt.Color;
 import java.util.ArrayList;
 import java.util.Objects;
